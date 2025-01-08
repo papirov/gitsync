@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gitsync": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
